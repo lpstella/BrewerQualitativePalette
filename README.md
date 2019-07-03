@@ -1,0 +1,2 @@
+# BrewerQualitativePalette
+Created with CodeSandbox
